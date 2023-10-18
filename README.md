@@ -26,6 +26,10 @@ Você pode encontrar os arquivos `.java` dentro da pasta [`aulas`](aulas/src).
 - [x] Expressões if, else-if e else
 - [x] Expressões switch, case, break e default
 - [x] For, while/do-while and nested loops
+- [x] Arrays and 2d arrays
+- [x] Métodos de string
+- [x] Wrapper classes
+- [x] ArrayList e ArrayList bidimensional
 
 ## ⬇ Instalando este projeto
 
