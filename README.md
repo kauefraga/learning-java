@@ -4,7 +4,7 @@
 
 ## 📚 O que aprendi
 
-Você pode encontrar os arquivos .java dentro da pasta [`aulas`](aulas/src)
+Você pode encontrar os arquivos `.java` dentro da pasta [`aulas`](aulas/src).
 
 - [x] Linguagem de programação Java
   - O que é?
@@ -25,6 +25,7 @@ Você pode encontrar os arquivos .java dentro da pasta [`aulas`](aulas/src)
 - [x] Como gerar vários valores pseudo-aleatórios (com `Random`)
 - [x] Expressões if, else-if e else
 - [x] Expressões switch, case, break e default
+- [x] For, while/do-while and nested loops
 
 ## ⬇ Instalando este projeto
 
@@ -46,6 +47,7 @@ Lista de conteúdos que consumi para escrever este projeto:
 - [Javinha](https://www.java.com/pt-BR/download)
   - [Por que Java 8?](https://www.java.com/pt-BR/download/why-java-8-recommended.html)
 - [Javinha em 12 horas - Bro Code](https://youtu.be/xk4_1vDrzzo)
+- [Java GUI em 5 horas - Bro Code](https://youtu.be/Kmgo00avvEw)
 - [Incluir `.idea` ou não?](https://stackoverflow.com/questions/3041154/intellij-idea-9-10-what-folders-to-check-into-or-not-check-into-source-contro)
 
 ## 📜 To do
