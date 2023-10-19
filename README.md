@@ -41,7 +41,12 @@ Você pode encontrar os arquivos `.java` dentro da pasta [`aulas`](aulas/src).
 - [x] Introdução a programação orientada a objetos
   - Objeto, instância de uma classe
   - Propriedade/atributo, propriedade/coisa que uma classe tem
-  - Construtor, método que inicializa uma classe
+  - Construtor, método chamado quando uma classe é instanciada
+  - Escopo local e global
+  - `Static`, método que pode ser utilizado sem uma instância da classe
+  - Herança ou *inheritance* (super class/parent -> child class)
+  - Method Overriding, quando uma child class implementa um método herdado (mesmo nome)
+  - `Super`, chama o construtor da classe super/pai
 
 ## ⬇ Instalando este projeto
 
