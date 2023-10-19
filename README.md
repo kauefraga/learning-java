@@ -30,6 +30,18 @@ Você pode encontrar os arquivos `.java` dentro da pasta [`aulas`](aulas/src).
 - [x] Métodos de string
 - [x] Wrapper classes
 - [x] ArrayList e ArrayList bidimensional
+- [x] For each/enhanced for loop
+- [x] Métodos
+  - Diferença entre parâmetro e argumento
+  - Overloaded methods
+- [x] Printf
+  - Flags, precisão, tamanho/espaços e conversion character
+- [x] Final (constante ou variável imutável)
+  - Convenção: NOME_EM_LETRAS_MAIÚSCULAS
+- [x] Introdução a programação orientada a objetos
+  - Objeto, instância de uma classe
+  - Propriedade/atributo, propriedade/coisa que uma classe tem
+  - Construtor, método que inicializa uma classe
 
 ## ⬇ Instalando este projeto
 
