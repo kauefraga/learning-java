@@ -46,7 +46,13 @@ Você pode encontrar os arquivos `.java` dentro da pasta [`aulas`](aulas/src).
   - `Static`, método que pode ser utilizado sem uma instância da classe
   - Herança ou *inheritance* (super class/parent -> child class)
   - Method Overriding, quando uma child class implementa um método herdado (mesmo nome)
+  - Overloaded constructor
   - `Super`, chama o construtor da classe super/pai
+  - `abstract`, impossível instanciar uma classe abstrata
+  - Private, public e protected
+  - Encapsulation
+  - Polimorfismo e polimorfismo dinâmico
+- Controle de exceção (*exception handling*) utilizando `try/catch`
 
 ## ⬇ Instalando este projeto
 
