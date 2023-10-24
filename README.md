@@ -53,6 +53,9 @@ Você pode encontrar os arquivos `.java` dentro da pasta [`aulas`](aulas/src).
   - Encapsulation
   - Polimorfismo e polimorfismo dinâmico
 - Controle de exceção (*exception handling*) utilizando `try/catch`
+- File, file writer e file reader
+- Audio
+
 
 ## ⬇ Instalando este projeto
 
